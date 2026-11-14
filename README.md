@@ -11,4 +11,3 @@ conversión de la tabla en una capa de puntos, unión espacial con los cantones 
 agregación por provincia con `dissolve()`, tabla y gráfico de los cantones con más registros,
 mapa de coropletas de la densidad de observaciones y mapa web interactivo con folium.
 
-Para ver el mapa web, abra el cuaderno en Google Colab (el visor de GitHub no ejecuta JavaScript).
